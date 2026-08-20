@@ -14,6 +14,8 @@
 
 This project analyzes and predicts the outcome of SpaceX Falcon 9 rocket launches. Understanding which factors drive a successful landing is central to reducing launch costs, since a landed and reused first stage is far cheaper than an expendable one. The analysis combines API and web-scraped launch data, exploratory analysis in SQL and Python, interactive geospatial and dashboard visualizations, and a set of classification models trained to predict landing outcomes from mission parameters.
 
+<img width="1515" height="661" alt="Deck-Title" src="https://github.com/user-attachments/assets/2fd0dbb5-23d3-48c8-8800-0c6f6655bca0" />
+
 ## Problem Statement
 
 The project set out to answer three questions: which launch characteristics most influence a successful landing, whether historical data can accurately predict the outcome of a future launch, and which classification model performs best for this prediction task.
