@@ -5,7 +5,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Folium Badge](https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge)
+![Folium](https://img.shields.io/badge/folium-77B829?style=flat&logo=folium&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-0081CB?style=flat&logo=plotly&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
